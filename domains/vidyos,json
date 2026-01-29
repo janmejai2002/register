@@ -1,0 +1,11 @@
+{
+  "description": "Vidyos - Knowledge, Reimagined. Universal AI academic companion.",
+  "repo": "https://github.com/janmejai2002/vidyos",
+  "owner": {
+    "username": "janmejai2002",
+    "email": "janmejai2002@gmail.com"
+  },
+  "record": {
+    "CNAME": "cname.vercel-dns.com"
+  }
+}
